@@ -1,0 +1,1 @@
+kemono-scraper.exe -link "put kemono link to user here" -async -max-download-parallel 5
