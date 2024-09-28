@@ -11,4 +11,4 @@ pip install pyyaml
 ```
 # Doesn't work?
 1. Check if the site is down<br>
-2. File an issue in the [issues tab](https://github.com/DD87686/Kempro/issues)
+2. File an issue in the [issues tab](https://github.com/DD87686/Kempro/issues) and i'll try to fix it :3
