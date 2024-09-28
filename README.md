@@ -2,7 +2,7 @@
 This program uses the uncompiled [elvis972602's Kemono Scraper](https://github.com/elvis972602/Kemono-scraper) written in `Go` and it's just a way to easily use it for the people that don't know how.<br>
 This code is safe and free to use, **feel free to inspect it.**
 ## Language
-All of this was written in [python](https://www.python.org/) with modules
+All of my code was written in [python](https://www.python.org/) with modules (not the kemonoscraper)
 ## Requirements/Dependencies
 You need certain python modules for this program to work, some are pre-installed with python but these need to be installed manually, if you know how to use [pip](https://pypi.org/project/pip/), these are the commands for the modules that are used:
 ```
