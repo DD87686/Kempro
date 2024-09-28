@@ -4,7 +4,7 @@ This code is safe and free to use, **feel free to inspect it.**<br>
 I was bored and the normal program is a little hard to use so i made it more simple to use
 # How to use
 1. Navigate to the \KEMPRO directory
-2. make sure to install the [modules](https://github.com/DD87686/Kempro#modules) for python
+2. make sure to install the required [modules](https://github.com/DD87686/Kempro#modules) for main.py
 3. find the `main.bat` and launch it
 4. Go through what it asks you, **Enable the tutorial in the settings.yaml if you're stuck**
 5. You're done! Just wait for it to download everything.
