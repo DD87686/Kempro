@@ -70,8 +70,6 @@ if int(MDP) >= 15:
     print(f"{pystyle.Colors.red}Invalid Syntax: [Integer isn't under 15 which is the maximal number]{pystyle.Colors.reset}")
     time.sleep(3)
     exit()
-Tutorial("Proxy")
-Proxy = input(f"{pystyle.Colors.pink}[OPTIONAL] Proxy: {pystyle.Colors.green}")
 def Wriet():
     file = open(f'Kemonoscrapermaster\main\main.bat', 'w+')
     Write = f"""cd %cd%\Kemonoscrapermaster\main
